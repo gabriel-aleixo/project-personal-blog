@@ -1,8 +1,0 @@
-<svg id="Light_Chips_3._Choice_chip_" data-name="Light 🌕/ Chips/3. Choice chip/" xmlns="http://www.w3.org/2000/svg" width="75" height="32" viewBox="0 0 75 32">
-  <g id="Container">
-    <rect id="_Elevation" data-name="☁️ Elevation" width="75" height="32" rx="16" fill="#fff"/>
-    <rect id="_Color_l_Container" data-name="🎨 Color l Container" width="75" height="32" rx="16" fill="rgba(0,0,0,0.87)" opacity="0.12"/>
-    <rect id="_States" data-name="💡States" width="75" height="32" rx="16" fill="none"/>
-  </g>
-  <text id="_Label" data-name="✏️ Label" transform="translate(12 21)" fill="rgba(0,0,0,0.87)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.018em"><tspan x="0" y="0">Enabled</tspan></text>
-</svg>

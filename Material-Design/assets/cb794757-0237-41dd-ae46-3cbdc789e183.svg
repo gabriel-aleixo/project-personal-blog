@@ -1,9 +1,0 @@
-<svg id="Light_Component_Header_Label" data-name="Light 🌕/ Component/Header Label" xmlns="http://www.w3.org/2000/svg" width="940" height="190" viewBox="0 0 940 190">
-  <text id="Label_Left" data-name="Label Left" transform="translate(0 116)" fill="rgba(0,0,0,0.87)" font-size="48" font-family="RobotoMono-Regular, Roboto Mono" letter-spacing="-0.008em"><tspan x="0" y="0">App Bars: Top</tspan></text>
-  <text id="Label_Left-2" data-name="Label Left" transform="translate(0 53.004)" fill="rgba(0,0,0,0.87)" font-size="16" font-family="RobotoMono-Regular, Roboto Mono" letter-spacing="-0.008em"><tspan x="0" y="0">Material Design</tspan></text>
-  <rect id="Divider" width="904" height="1" transform="translate(0 189)" fill="rgba(0,0,0,0.87)" opacity="0.6"/>
-  <g id="ic_material_design_white_24dp" transform="translate(916)">
-    <path id="Path" d="M0,0H24V24H0Z" fill="none"/>
-    <path id="Shape" d="M11.027,22.055A11.027,11.027,0,1,1,22.055,11.027,11.04,11.04,0,0,1,11.027,22.055Zm-5.654-4.01a8.973,8.973,0,0,0,11.308,0ZM18.044,5.383v11.3a8.959,8.959,0,0,0,0-11.3Zm-14.035,0a8.962,8.962,0,0,0,0,11.3ZM16.039,8.02l-4.01,8.019h4.01Zm-10.024,0h0v8.018h4.01ZM7.258,6.015l3.769,7.548,3.779-7.548Zm3.769-4.009a8.88,8.88,0,0,0-5.654,2H16.681A8.877,8.877,0,0,0,11.027,2.005Z" transform="translate(1.297 0.649)"/>
-  </g>
-</svg>
