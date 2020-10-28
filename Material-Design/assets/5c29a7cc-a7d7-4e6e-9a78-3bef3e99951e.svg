@@ -1,0 +1,21 @@
+<svg id="Light_Banner_1._one-line_3_States_" data-name="Light 🌕/ Banner/1. one-line (3 States)" xmlns="http://www.w3.org/2000/svg" width="360" height="54" viewBox="0 0 360 54">
+  <g id="Container">
+    <g id="Light_Elevation_00dp" data-name="Light 🌕/Elevation/00dp">
+      <rect id="Rectangle" width="360" height="54" fill="#fff" style="mix-blend-mode: multiply;isolation: isolate"/>
+    </g>
+    <rect id="Rectangle-2" data-name="Rectangle" width="360" height="54" fill="#fff"/>
+    <g id="Light_Devider" data-name="Light 🌕 / Devider" transform="translate(0 53)">
+      <rect id="Devider_Light_" data-name="Devider / Light 🌕" width="360" height="1" fill="rgba(0,0,0,0.12)"/>
+    </g>
+    <g id="Button" transform="translate(280 9)">
+      <g id="Container-2" data-name="Container">
+        <rect id="_Color" data-name="↳ 🎨 Color" width="72" height="36" rx="4" fill="none"/>
+        <g id="_States" data-name="↳ 💡States">
+          <rect id="States_Light_Surface_containers_Primary_Content" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+        </g>
+      </g>
+      <text id="_Label" data-name="↳ ✏️ Label" transform="translate(8 23)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="0" y="0">ACTION</tspan></text>
+    </g>
+  </g>
+  <text id="One_line_text_string_with_one_action." data-name="One line text string with one action." transform="translate(16 17)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.018em"><tspan x="0" y="15">One line text string with one action.</tspan></text>
+</svg>

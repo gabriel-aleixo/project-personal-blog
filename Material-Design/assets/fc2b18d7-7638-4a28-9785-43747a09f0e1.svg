@@ -1,0 +1,9 @@
+<svg id="Light_Button_1._Text_A._Text" data-name="Light 🌕/ Button/1. Text/A. Text" xmlns="http://www.w3.org/2000/svg" width="84" height="36" viewBox="0 0 84 36">
+  <g id="Container">
+    <rect id="_Color" data-name="↳ 🎨 Color" width="84" height="36" rx="4" fill="none"/>
+    <g id="_States" data-name="↳ 💡States">
+      <rect id="States_Light_Surface_containers_Primary_Content" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+    </g>
+  </g>
+  <text id="_Label" data-name="↳ ✏️ Label" transform="translate(8 23)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="0" y="0">ENABLED</tspan></text>
+</svg>

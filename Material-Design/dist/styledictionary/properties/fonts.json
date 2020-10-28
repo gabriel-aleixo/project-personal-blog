@@ -1,0 +1,294 @@
+{
+  "font": {
+    "Dark 🌑 / H1": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Light"
+      }
+    },
+    "Dark 🌑 / H2": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Light"
+      }
+    },
+    "Dark 🌑 / H3": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Dark 🌑 / H5": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Dark 🌑 / H4": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Dark 🌑 / H6": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "Dark 🌑 / Subtitle": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Dark 🌑 / Subtitle 2": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "Dark 🌑 / Body 1": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Dark 🌑 / Body 2": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Dark 🌑 / Caption": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Dark 🌑 / Button": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "Dark 🌑 / Overline": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "Light🌕 / Overline": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "Light 🌕 / Caption": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Light🌕 / Button": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "Light 🌕 / Body 2": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Light 🌕 / Body 1": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Light 🌕 Subtitle 2": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "Light 🌕 / Subtitle 1": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Light 🌕 / H5": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Light🌕 / H6": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Medium"
+      }
+    },
+    "Light 🌕 / H3": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Light 🌕 / H4": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    },
+    "Light 🌕 / H2": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Light"
+      }
+    },
+    "Light 🌕 / H1": {
+      "family": {
+        "value": "Roboto"
+      },
+      "style": {
+        "value": "Light"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "Dark 🌑 / H1": {
+        "value": "96"
+      },
+      "Dark 🌑 / H2": {
+        "value": "60"
+      },
+      "Dark 🌑 / H3": {
+        "value": "48"
+      },
+      "Dark 🌑 / H5": {
+        "value": "24"
+      },
+      "Dark 🌑 / H4": {
+        "value": "34"
+      },
+      "Dark 🌑 / H6": {
+        "value": "20"
+      },
+      "Dark 🌑 / Subtitle": {
+        "value": "16"
+      },
+      "Dark 🌑 / Subtitle 2": {
+        "value": "14"
+      },
+      "Dark 🌑 / Body 1": {
+        "value": "16"
+      },
+      "Dark 🌑 / Body 2": {
+        "value": "14"
+      },
+      "Dark 🌑 / Caption": {
+        "value": "12"
+      },
+      "Dark 🌑 / Button": {
+        "value": "14"
+      },
+      "Dark 🌑 / Overline": {
+        "value": "10"
+      },
+      "Light🌕 / Overline": {
+        "value": "10"
+      },
+      "Light 🌕 / Caption": {
+        "value": "12"
+      },
+      "Light🌕 / Button": {
+        "value": "14"
+      },
+      "Light 🌕 / Body 2": {
+        "value": "14"
+      },
+      "Light 🌕 / Body 1": {
+        "value": "16"
+      },
+      "Light 🌕 Subtitle 2": {
+        "value": "14"
+      },
+      "Light 🌕 / Subtitle 1": {
+        "value": "16"
+      },
+      "Light 🌕 / H5": {
+        "value": "24"
+      },
+      "Light🌕 / H6": {
+        "value": "20"
+      },
+      "Light 🌕 / H3": {
+        "value": "48"
+      },
+      "Light 🌕 / H4": {
+        "value": "34"
+      },
+      "Light 🌕 / H2": {
+        "value": "60"
+      },
+      "Light 🌕 / H1": {
+        "value": "96"
+      }
+    }
+  }
+}

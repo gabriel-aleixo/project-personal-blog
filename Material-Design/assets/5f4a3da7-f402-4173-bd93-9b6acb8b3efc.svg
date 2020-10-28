@@ -1,0 +1,16 @@
+<svg id="Light_Button_2._Outlined_B._Text_Icon_Enabled" data-name="Light 🌕/ Button/2. Outlined/B. Text + Icon/Enabled" xmlns="http://www.w3.org/2000/svg" width="121" height="36" viewBox="0 0 121 36">
+  <g id="Container">
+    <g id="_Color" data-name="↳ 🎨 Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+      <rect width="121" height="36" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="120" height="35" rx="3.5" fill="none"/>
+    </g>
+    <g id="_States" data-name="↳ 💡States">
+      <rect id="States_Light_Surface_containers_Primary_Content" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+    </g>
+  </g>
+  <text id="_Label" data-name="↳ ✏️ Label" transform="translate(37 23)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="0" y="0">ENABLED</tspan></text>
+  <g id="icon_content_add_24px" data-name="icon/content/add_24px" transform="translate(8 6)">
+    <rect id="Boundary" width="24" height="24" fill="none"/>
+    <path id="_Color-2" data-name=" ↳Color" d="M14,8H8v6H6V8H0V6H6V0H8V6h6Z" transform="translate(5 5)" fill="#6200ee"/>
+  </g>
+</svg>

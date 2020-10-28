@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="102" viewBox="0 0 390 102">
+  <defs>
+    <filter id="Rectangle" x="9" y="10" width="372" height="84" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-2" x="0" y="0" width="390" height="102" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-3" x="7.5" y="10.5" width="375" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-3"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Light_Tabs_ΩElements_Container" data-name="Light 🌕/Tabs/ΩElements/Container" transform="translate(15 14)">
+    <g id="Light_Elevation_00dp" data-name="Light 🌕/Elevation/00dp">
+      <g id="Shadow" style="mix-blend-mode: multiply;isolation: isolate">
+        <g transform="matrix(1, 0, 0, 1, -15, -14)" filter="url(#Rectangle)">
+          <rect id="Rectangle-4" data-name="Rectangle" width="360" height="72" transform="translate(15 14)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -15, -14)" filter="url(#Rectangle-2)">
+          <rect id="Rectangle-5" data-name="Rectangle" width="360" height="72" transform="translate(15 14)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -15, -14)" filter="url(#Rectangle-3)">
+          <rect id="Rectangle-6" data-name="Rectangle" width="360" height="72" transform="translate(15 14)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Primary" width="360" height="72" fill="#6200ee"/>
+  </g>
+</svg>

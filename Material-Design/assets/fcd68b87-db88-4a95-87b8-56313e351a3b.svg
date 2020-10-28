@@ -1,0 +1,12 @@
+<svg id="Light_Tabs_ΩElements_6_States_A_Tab" data-name="Light 🌕/Tabs/ΩElements/(6 States) A Tab" xmlns="http://www.w3.org/2000/svg" width="120" height="72" viewBox="0 0 120 72">
+  <g id="Light_Elevation_00dp" data-name="Light 🌕/Elevation/00dp">
+    <rect id="Rectangle" width="120" height="72" fill="#fff" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+  <rect id="Primary" width="120" height="72" fill="#6200ee"/>
+  <rect id="Indicator" width="120" height="2" transform="translate(0 70)" fill="#fff"/>
+  <text id="_Caption" data-name="✏️ Caption" transform="translate(60 56)" fill="#fff" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="-14.159" y="0">TAB</tspan></text>
+  <g id="icon_social_notifications_24px" data-name="icon/social/notifications_24px" transform="translate(48 12)">
+    <rect id="Boundary" width="24" height="24" fill="none"/>
+    <path id="_Color" data-name=" ↳Color" d="M8,19.5a2,2,0,0,1-2-2h4A2,2,0,0,1,8,19.5Zm8-3H0v-1l2-2v-5A7.1,7.1,0,0,1,3.174,4.44,5.522,5.522,0,0,1,6.5,2.18V1.5a1.5,1.5,0,0,1,3,0v.68a5.529,5.529,0,0,1,3.322,2.264A7.085,7.085,0,0,1,14,8.5v5l2,2v1Z" transform="translate(4 2)" fill="#fff"/>
+  </g>
+</svg>

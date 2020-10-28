@@ -1,0 +1,12 @@
+<svg id="Light_Button_2._Outlined_A._Text_Enabled" data-name="Light 🌕/ Button/2. Outlined/A. Text/Enabled" xmlns="http://www.w3.org/2000/svg" width="100" height="35" viewBox="0 0 100 35">
+  <g id="Container">
+    <g id="_Color" data-name="↳ 🎨 Color" fill="none" stroke="rgba(0,0,0,0.12)" stroke-miterlimit="10" stroke-width="1">
+      <rect width="100" height="35" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="99" height="34" rx="3.5" fill="none"/>
+    </g>
+    <g id="_States" data-name="↳ 💡States">
+      <rect id="States_Light_Surface_containers_Primary_Content" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+    </g>
+  </g>
+  <text id="_Label" data-name="↳ ✏️ Label" transform="translate(16 23)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="0" y="0">ENABLED</tspan></text>
+</svg>

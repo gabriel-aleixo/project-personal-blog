@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="418" height="401" viewBox="0 0 418 401">
+  <defs>
+    <filter id="Rectangle" x="46.5" y="48.5" width="325" height="305" filterUnits="userSpaceOnUse">
+      <feOffset dy="11" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-2" x="0" y="0" width="418" height="398" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="23" result="blur-2"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-3" x="12" y="27" width="394" height="374" filterUnits="userSpaceOnUse">
+      <feOffset dy="24" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="19" result="blur-3"/>
+      <feFlood flood-opacity="0.141"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Light_Dialog_3_States_" data-name="Light 🌕/ Dialog (3 States)" transform="translate(69 60)">
+    <g id="Container" transform="translate(-56 -348)">
+      <g id="Light_Elevation" data-name="Light 🌕/Elevation" transform="translate(56 348)">
+        <g id="Shadow" style="mix-blend-mode: multiply;isolation: isolate">
+          <g transform="matrix(1, 0, 0, 1, -69, -60)" filter="url(#Rectangle)">
+            <rect id="Rectangle-4" data-name="Rectangle" width="280" height="260" rx="4" transform="translate(69 60)" fill="#fff"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -69, -60)" filter="url(#Rectangle-2)">
+            <rect id="Rectangle-5" data-name="Rectangle" width="280" height="260" rx="4" transform="translate(69 60)" fill="#fff"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -69, -60)" filter="url(#Rectangle-3)">
+            <rect id="Rectangle-6" data-name="Rectangle" width="280" height="260" rx="4" transform="translate(69 60)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <rect id="Container-2" data-name="Container" width="280" height="260" rx="4" transform="translate(56 348)" fill="#fff"/>
+      <g id="Button" transform="translate(56 556)">
+        <path id="Container-3" data-name="Container" d="M0,0H280a0,0,0,0,1,0,0V48a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" fill="none"/>
+        <g id="Button-2" data-name="Button" transform="translate(200 8)">
+          <g id="Container-4" data-name="Container">
+            <rect id="_Color" data-name="↳ 🎨 Color" width="72" height="36" rx="4" fill="none"/>
+            <g id="_States" data-name="↳ 💡States">
+              <rect id="States_Light_Surface_containers_Primary_Content" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+            </g>
+          </g>
+          <text id="_Label" data-name="↳ ✏️ Label" transform="translate(8 23)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="0" y="0">ACTION</tspan></text>
+        </g>
+        <g id="Button-3" data-name="Button" transform="translate(120 8)">
+          <g id="Container-5" data-name="Container">
+            <rect id="_Color-2" data-name="↳ 🎨 Color" width="72" height="36" rx="4" fill="none"/>
+            <g id="_States-2" data-name="↳ 💡States">
+              <rect id="States_Light_Surface_containers_Primary_Content-2" data-name="States/Light 🌕/Surface containers/Primary Content" fill="rgba(98,0,238,0)"/>
+            </g>
+          </g>
+          <text id="_Label-2" data-name="↳ ✏️ Label" transform="translate(8 23)" fill="#6200ee" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.089em"><tspan x="0" y="0">ACTION</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text id="Body_2:_Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_" data-name="Body 2: Lorem ipsum dolor sit 
+amet, consectetur adipiscing elit, 
+sed do eiusmod tempor incididunt 
+ut labore et dolore magna aliqua. Ut 
+enim ad minim veniam," transform="translate(24 85)" fill="rgba(0,0,0,0.6)" font-size="14" font-family="Roboto-Regular, Roboto" letter-spacing="0.018em"><tspan x="0" y="15">Body 2: Lorem ipsum dolor sit </tspan><tspan x="0" y="35">amet, consectetur adipiscing elit, </tspan><tspan x="0" y="55">sed do eiusmod tempor incididunt </tspan><tspan x="0" y="75">ut labore et dolore magna aliqua. Ut </tspan><tspan x="0" y="95">enim ad minim veniam,</tspan></text>
+    <text id="Subtitle_1" data-name="Subtitle 1" transform="translate(24 50)" fill="rgba(0,0,0,0.87)" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.009em"><tspan x="81.887" y="17">Subtitle 1</tspan></text>
+    <g id="icon_maps_place_24px" data-name="icon/maps/place_24px" transform="translate(128 16)">
+      <rect id="Boundary" width="24" height="24" fill="none"/>
+      <path id="_Color-3" data-name=" ↳Color" d="M7,20H7a45.452,45.452,0,0,1-3.5-4.53C1.9,13.1,0,9.712,0,7A7,7,0,0,1,11.952,2.049,6.955,6.955,0,0,1,14,7c0,2.712-1.9,6.1-3.5,8.468A45.452,45.452,0,0,1,7,20ZM7,4.5A2.5,2.5,0,1,0,9.5,7,2.5,2.5,0,0,0,7,4.5Z" transform="translate(5 2)"/>
+    </g>
+  </g>
+</svg>

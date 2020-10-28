@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="142" height="2" viewBox="0 0 142 2">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="142" height="2" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Mask" width="142" height="2" rx="1" fill="rgba(1,135,134,0.38)"/>
+    </clipPath>
+  </defs>
+  <g id="Light_Slider_ΩElements_1._Track" data-name="Light 🌕/ Slider/ΩElements/1. Track" clip-path="url(#clip-path)">
+    <g id="Mask-2" data-name="Mask" clip-path="url(#clip-path-2)">
+      <rect id="Track" width="360" height="2" rx="1" fill="rgba(98,0,238,0.38)"/>
+    </g>
+  </g>
+</svg>
